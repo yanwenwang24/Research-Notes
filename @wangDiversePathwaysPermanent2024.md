@@ -1,11 +1,13 @@
 ---
 title: "Diverse pathways to permanent childlessness in Singapore: A latent class analysis"
-authors: "Yanwen Wang, Bussarawan Teerawichitchainan, Christine Ho"
+authors: Yanwen Wang, Bussarawan Teerawichitchainan, Christine Ho
 year: "2024"
-journal: "Advances in Life Course Research"
-doi: "10.1016/j.alcr.2024.100628"
-tags: 
-  - 
+journal: Advances in Life Course Research
+doi: 10.1016/j.alcr.2024.100628
+tags:
+  - childlessness
+  - methods/LCA
+  - "#my-publication"
 ---
 ## Abstract
 

@@ -1,11 +1,13 @@
 ---
-title: "Educational mobility and subjective well-being from an intergenerational perspective"
-authors: "Yanwen Wang"
+title: Educational mobility and subjective well-being from an intergenerational perspective
+authors: Yanwen Wang
 year: "2024"
-journal: "Research in Social Stratification and Mobility"
-doi: "10.1016/j.rssm.2024.100917"
-tags: 
-  - 
+journal: Research in Social Stratification and Mobility
+doi: 10.1016/j.rssm.2024.100917
+tags:
+  - mobility/education
+  - methods/DMM
+  - "#my-publication"
 ---
 ## Abstract
 
