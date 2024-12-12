@@ -29,7 +29,7 @@ Origin-Education-Destination (OED) triangle
 - The $ED$ path: the returns to education in the labor market
 - The $OD|E$ path: direct association between origin and destination within levels of educational attainment
 
-Three claims about social change, meritocracy, and intergenerational mobility
+Three claims about social change, meritocracy, and intergenerational mobility ([[@torcheEducationalMobilityDeveloping2021]])
 - *Context matters:* Through educational expansion, intergenerational persistence declines both through education and directly from parents' occupational status to children's occupational status.
 - *Context does not matter:* With educational expansion, resourceful families will keep their children ahead in their educational and occupational attainment, leading to highly similar patterns of mobility across societies and across time.
 - *Direct persistence:* Even if expansion equalizes educational attainment across social origins, the direct association between origin and destination (i.e., within broad levels of educational attainment) is much more persistent to change and may even strengthen to compensate a loss of advantage by resourceful families.

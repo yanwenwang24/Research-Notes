@@ -33,4 +33,4 @@ The Exchange Index $EI$
 Advantages over log-linear models
 - A single, simple, nonparametric summary measure, straightforward for interpretation
 - Accommodate covariates (especially continuous ones)
-- Distinguish between "market exchange" and "dyadic exchange" ([[@torcheDecliningRacialStratification2017]])
+- Distinguish "dyadic exchange" from "market exchange" ([[@torcheDecliningRacialStratification2017]])
