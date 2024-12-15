@@ -17,7 +17,7 @@ The status exchange hypothesis suggests that partners in black/white marriages i
 
 > Status exchange can be regarded as evidence that in the marriage market--and presumably also in society at large--race is *treated* as a hierarchical variable ([[@kalmijnEducationalInequalityHomogamy2010]]).
 
-Black/while intermarriages ([[@qianBreakingRacialBarriers1997]]; [[@qianSocialBoundariesMarital2007]])
+Black/while intermarriages ([[@gullicksonBlackWhiteInterracial2006]]; [[@qianBreakingRacialBarriers1997]]; [[@qianSocialBoundariesMarital2007]])
 - Low but increasing prevalence, attitudinal change
 - Gender asymmetry
 

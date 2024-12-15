@@ -15,7 +15,7 @@ The authors propose a new methodological framework for studying status exchange 
 
 **Status exchange** refers to a marriage pattern in which one spouse compensates for his or her disadvantage--relative to the other spouse--in one status dimension with an advantage in another status dimension.
 
-Example: Black-White intermarriages (e.g., [[@qianBreakingRacialBarriers1997]]; [[@qianSocialBoundariesMarital2007]]; [[@torcheDecliningRacialStratification2017]])
+Example: Black-White intermarriages (e.g., [[@fuRacialIntermarriagePairings2001]]; [[@qianBreakingRacialBarriers1997]]; [[@qianSocialBoundariesMarital2007]]; [[@torcheDecliningRacialStratification2017]])
 
 Methodological disputes
 - Rosenfeld ([[@rosenfeldCritiqueExchangeTheory2005]]; [[@rosenfeldStillWeakSupport2010]]) treats status exchange parameters as four-way interation terms.
@@ -33,4 +33,4 @@ The Exchange Index $EI$
 Advantages over log-linear models
 - A single, simple, nonparametric summary measure, straightforward for interpretation
 - Accommodate covariates (especially continuous ones)
-- Distinguish "dyadic exchange" from "market exchange" ([[@torcheDecliningRacialStratification2017]])
+- Distinguish "dyadic exchange" from "market exchange" ([[@gullicksonPatternsRacialEducational2014]]; [[@torcheDecliningRacialStratification2017]])
