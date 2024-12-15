@@ -22,7 +22,7 @@ Key Milestones:
 - [ ] Methodology Finalized
 - [ ] Data Collection Complete
 - [ ] Analysis Complete
-- [ ] Draft Paper Complete
+- [ ] Draft Complete
 - [ ] Final Submission
 
 ## Research questions
@@ -35,13 +35,12 @@ Key Milestones:
 
 ## Findings
 
-## Related documents
+## Related literature
 
-- [[]]
 - [[]]
 
 ## Progress logs
 
-| Date | Activity | Notes | Next Steps |
-|------|----------|--------|------------|
-| {{date}} |          |        |            |
+| Date     | Activity | Next Steps |
+| -------- | -------- | ---------- |
+| {{date}} |          |            |
