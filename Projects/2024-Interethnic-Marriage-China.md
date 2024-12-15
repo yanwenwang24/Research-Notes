@@ -8,7 +8,7 @@ tags:
   - mate-selection/status-exchange
   - "#methods/log-linear"
 ---
-
+Ï
 ## Project overview
 
 Authors: Yanwen Wang, Zheng Mu
@@ -21,15 +21,15 @@ Grant Number: --
 
 Key Milestones:
 - [ ] Literature Review Complete
-- [ ] Methodology Finalized
+- [x] Methodology Finalized
 - [x] Data Collection Complete
-- [ ] Analysis Complete
-- [ ] Draft Paper Complete
-- [ ] Final Submission
+- [x] Analysis Complete
+- [ ] Draft Complete
+- [ ] Submission
 
 ## Abstract
 
-In multiethnic societies, interethnic marriage serves as a critical lens for understanding cultural integration and status hierarchies among ethnic groups. Using data from China's Census (1982-2010), we examine how these dynamics unfold in a context where ethnic disparities intersect with state interventions through preferential policies. Although uncommon, intermarriage with the Han majority gradually increased, occurring most frequently among the Manchu, Mongolian, and Southern minorities, and least frequently among the Kazakh and Uyghur. After controlling for ethnic compositions, all minority groups exhibited preferences against intermarriage with the Han, with the strongest disinclination observed among groups maintaining distinct ethnoreligious identities (e.g., Kazakh, Uyghur). These cultural boundaries became increasingly permeable over time for most groups except the Manchu. Patterns of gender asymmetry varied across groups: Manchu showed higher likelihood of minority men marrying Han women, while Korean, Mongolian, Southern, and Tibetan groups exhibited stronger tendencies for minority women marrying Han men. Our analysis of educational patterns reveals two distinct mechanisms for boundary crossing: relatively assimilated groups (e.g., Hui, Manchu, Mongolian) through educational assortative mating, and status exchange among groups with strong but permeable boundaries. Koreans leveraged their educational advantage to marry Han spouses, while Han Chinese needed higher education to marry into Tibetan and Southern minorities—groups that receive the greatest policy advantages. Notably, the Uyghur and Kazakh populations, despite also receiving substantial policy advantages, maintain rigid ethnic boundaries unaffected by either mechanism. These findings reveal how marriage choices reflect complex negotiations between cultural preservation, social mobility, and state-structured incentives, providing insights into the persistence and malleability of ethnic boundaries in contemporary societies.
+In multiethnic societies, interethnic marriage serves as a critical lens for understanding cultural integration and status hierarchies among ethnic groups. Using data from China's Census (1982-2010), we examine how these dynamics unfold in a context where ethnic disparities intersect with state interventions through preferential policies. Although uncommon, intermarriage with the Han majority gradually increased, occurring most frequently among the Manchu, Mongolian, and Southern minorities, and least frequently among the Kazakh and Uyghur. After controlling for ethnic compositions, all minority groups exhibited preferences against intermarriage with the Han, with the strongest disinclination observed among groups maintaining distinct ethnoreligious identities (e.g., Kazakh, Uyghur). These cultural boundaries varied between genders and became increasingly permeable over time for most groups except the Manchu. Our analysis of educational patterns reveals two distinct mechanisms for boundary crossing: relatively assimilated groups (e.g., Hui, Manchu, Mongolian) through educational assortative mating, and status exchange among groups with strong but permeable boundaries. Koreans leveraged their educational advantage to marry Han spouses, while Han Chinese needed higher education to marry into Tibetan and Southern minorities—groups that receive the greatest policy advantages. Notably, the Uyghur and Kazakh populations, despite also receiving substantial policy advantages, maintain rigid ethnic boundaries unaffected by either mechanism. These findings reveal how marriage choices reflect complex negotiations between cultural preservation, social mobility, and state-structured incentives, providing insights into the persistence and malleability of ethnic boundaries in contemporary societies.
 
 *Keywords:* interethnic marriage, ethnicity, education, status exchange, China
 
@@ -47,7 +47,37 @@ In multiethnic societies, interethnic marriage serves as a critical lens for und
 
 ## Data and methods
 
-## Findings
+## Results
+
+### Descriptive results
+
+| Year                             | 1982   | 1990   | 2000   | 2010   |
+| -------------------------------- | ------ | ------ | ------ | ------ |
+| Intra-ethnic marriage            | 98.11% | 97.20% | 96.59% | 96.30% |
+| Intermarriage with the Han       | 1.86%  | 2.75%  | 3.34%  | 3.61%  |
+| Intermarriage between minorities | 0.02%  | 0.06%  | 0.07%  | 0.09%  |
+Overall trends
+- Interethnic marriage nearly doubled from 1.86% in 1982 to 3.61% in 2010.
+- Intermarriages between different minority groups, while increasing, remained rare.
+
+Variations across ethnic groups
+- By 2010, interethnic marriage was most prevalent among the Manchu (46.34%), Mongolian (45.83), and Korean (27.71%) populations, followed by Southern minorities (19.82%), Hui (12.12%), and Tibetan (6.35%).
+- The lowest rates were observed among groups with salient ethnoreligious identities—the Kazakh (3.06%) and Uyghur (0.48%)—and the Han majority (2.00%).
+- The Korean population showed the most dramatic increase in intermarriage rates, rising more than tenfold from 2.55% in 1982 to 27.71% in 2010.
+- This remarkable weakening of ethnic boundaries was also evident among the Mongolian (72.49% increase) and Southern minorities (49.47% increase).
+- Ethnic boundaries strengthened among the Manchu, whose intermarriage rates decreased by 33.89%, with the sharpest decline occurring between 1982 and 1990.
+- The Hui and Kazakh populations saw increasing intermarriage rates through 1990, but this trend reversed in subsequent decades.
+- Tibetan boundaries similarly fluctuated—intermarriage rates peaked at 10.96% in 2000 before retreating to 6.35% in 2010, comparable to 1982-1990 levels.
+- The Uyghur population maintained particularly rigid boundaries throughout the period, with intermarriage rates consistently below 1%, with a brief exception in 2000.
+
+Gender asymmetry
+- Among the Mongolian, Korean, Tibetan, and Southern minorities, women had higher intermarriage rates than men.
+- The Hui maintained relatively symmetric gender patterns in intermarriage, while Manchu and Han populations had slightly higher rates among men.
+- Among the Kazakh, the initial male dominance in interethnic marriage (5.08% for men vs. 1.93% for women in 1982) gave way to higher female intermarriage rates by 2010. The Uyghur population experienced a similar reversal of gender gaps in intermarriage rates, but in the opposite direction.
+
+Educational attainment and interethnic marriage
+- There were positive and widening educational gradients in intermarriage rates for the Hui, Manchu, Mongolian, and Southern minorities.
+- The Korean minority exhibited a reverse pattern—their most dramatic increase in intermarriage occurred among the less educated, rising from 3.34% in 1982 to 50% in 2010, surpassing rates among those with middle (15.63%) and high (34.04%) education.
 
 ### Ethnic boundaries
 
@@ -199,15 +229,51 @@ Tibetan-Han and Southern-Han marriages exhibited *reverse* status exchange patte
 
 Relatively assimilated groups (Hui, Manchu, and Mongolian) displayed positive assortative mating rather than status exchange. Both partners in these marriages demonstrated higher educational investment compared to what would be typical in intra-ethnic marriages, suggesting that education facilitates intermarriage through matching on similar educational levels rather than exchange of status characteristics.
 
-## Related documents
+### Auxiliary analyses by region
 
+
+
+## Related literature
+
+Intermarriage
+- [[@fuRacialIntermarriagePairings2001]]
+- [[@kalmijnEducationalInequalityHomogamy2010]]
+- [[@gullicksonBlackWhiteInterracial2006]]
+- [[@gullicksonPatternsRacialEducational2014]]
+- [[@gullicksonCommentEndorsementExchange2010]]
+- [[@houInterracialMarriageStatuscaste2013]]
 - [[@qianBreakingRacialBarriers1997]]
 - [[@qianSocialBoundariesMarital2007]]
+- [[@rosenfeldCritiqueExchangeTheory2005]]
+- [[@rosenfeldStillWeakSupport2010]]
+- [[@torcheDecliningRacialStratification2017]]
 - [[@xieNewMethodologicalFramework2021]]
+
+Ethnicity and education
+- [[@davenportFluidityRacialClassifications2020]]
+- [[@wimmerElementaryStrategiesEthnic2008]]
+- [[@francis-tanExaminingEthnicityPatterns2022]]
+- [[@francis-tanRacialRevolutionUnderstanding2019]]
+- [[@muFollowFatherMother2024]]
+- [[@muUnderstandingEducationalDisparities2024]]
+- [[@hannumEducationalStratificationEthnicity2002]]
+
+Interethnic marriage in China
+- [[@chenInterethnicMarriageNortheast2018]]
+- [[@guoMarriageAgeNumber2008]]
+- [[@jankowiakMongolianInterethnicMarriage2024]]
+- [[@jianRecentTrendEthnic2017]]
+- [[@liAnalysisCurrentStatus2004]]
+- [[@maEthnicRelationsChina2022]]
+- [[@mametEthnicIntermarriageBeijing2005]]
+- [[@muHuiMuslimsEndogamy2022]]
+- [[@shenMigrantExogamyEthnic2019]]
+- [[@xingPrevalenceEthnicIntermarriage2007]]
 
 ## Progress logs
 
-| Date       | Activity                                                                                                                  | Notes | Next Steps |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------- | ----- | ---------- |
-| 2024-12-14 | Add research objectives; examine and visualize gender asymmetry (pooled and temporal); organize findings; update abstract |       |            |
-|            |                                                                                                                           |       |            |
+| Date       | Activity                                                                                                                                                            | Next Steps                                                                                                                                              |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2024-12-14 | Add research objectives; examine and visualize gender asymmetry (pooled and temporal); organize descriptive and model findings; update abstract; proofread Draft_v1 | Continue proofreading Draft_v1; update hypotheses; add findings related to gender asymmetry                                                             |
+| 2024-12-15 | Proofread Draft_v1; add related literature; write up findings about gender asymmetry; update graphs                                                                 | Add appendix table 2 about gender asymmetry; organize auxiliary findings; write up auxiliary findings about gender asymmetry; outline literature review |
+|            |                                                                                                                                                                     |                                                                                                                                                         |
