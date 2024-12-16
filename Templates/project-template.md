@@ -1,29 +1,31 @@
 ---
-title: {{title}}
-created: {{date}}
-modified: {{date}}
-status: Planning
+title: "{title}"
+status: planning
 tags:
-  - 
 ---
 
 ## Project overview
 
-Authors:
-Department:
-Institution:
-Funding Source:
-Grant Number:
+Authors: Yanwen Wang
+
+Department: Sociology and Anthropology
+
+Institution: National University of Singapore
+
+Funding Source: --
+
+Grant Number: --
 
 ## Project timeline
 
 Key Milestones:
-- [ ] Literature Review Complete
-- [ ] Methodology Finalized
-- [ ] Data Collection Complete
-- [ ] Analysis Complete
-- [ ] Draft Complete
-- [ ] Final Submission
+
+- [ ] Literature review complete
+- [ ] Methodology finalized
+- [ ] Data collection complete
+- [ ] Analysis complete
+- [ ] Draft complete
+- [ ] Submission
 
 ## Research questions
 
@@ -33,7 +35,7 @@ Key Milestones:
 
 ## Data and methods
 
-## Findings
+## Results
 
 ## Related literature
 
