@@ -5,8 +5,9 @@ year: "2010"
 journal: American Journal of Sociology
 doi: 10.1086/649051
 tags:
-  - mate-selection/status-exchange
+  - status-exchange
+date created: 2024-12-11
+date modified: 2024-12-16
 ---
+
 ## Abstract
-
-

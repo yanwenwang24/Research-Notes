@@ -5,9 +5,11 @@ year: "2004"
 journal: Population Research
 doi: ""
 tags:
-  - mate-selection/race-ethnicity
-  - mate-selection/race-ethnicity/China
+  - China
+  - race-ethnicity
+  - mate-selection
+date created: 2024-12-15
+date modified: 2024-12-16
 ---
+
 ## Abstract
-
-

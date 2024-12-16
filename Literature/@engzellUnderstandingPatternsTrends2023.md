@@ -5,16 +5,20 @@ year: "2023"
 journal: American Sociological Review
 doi: 10.1177/00031224231180607
 tags:
-  - mobility/income
+  - income
   - methods/multiverse
+date created: 2024-12-12
+date modified: 2024-12-16
 ---
+
 ## Abstract
 
-Rising inequalities in rich countries have led to concerns that the economic ladder is getting harder to climb. Yet, research on trends in intergenerational income mobility finds conflicting results. To better understand this variation, we adopt a multiverse approach that estimates trends over 82,944 different definitions of income mobility, varying how and for whom income is measured. Our analysis draws on comprehensive register data for Swedish cohorts born 1958 to 1977 and their parents. We find that income mobility has declined, but for reasons neglected by previous research: improved gender equality in the labor market raises intergenerational persistence in women’s earnings and the household incomes of both men and women. Dominant theories that focus on childhood investments have blinded researchers to this development. Methodologically, we show how multiverse analysis can be used with abduction—inference to the best explanation—to improve theory-building in social science.
+Rising inequalities in rich countries have led to concerns that the economic ladder is getting harder to climb. Yet, research on trends in intergenerational income mobility finds conflicting results. To better understand this variation, we adopt a multiverse approach that estimates trends over 82,944 different definitions of income mobility, varying how and for whom income is measured. Our analysis draws on comprehensive register data for Swedish cohorts born 1958 to 1977 and their parents. We find that income mobility has declined, but for reasons neglected by previous research: improved gender equality in the labor market raises intergenerational persistence in women's earnings and the household incomes of both men and women. Dominant theories that focus on childhood investments have blinded researchers to this development. Methodologically, we show how multiverse analysis can be used with abduction—inference to the best explanation—to improve theory-building in social science.
 
 ## Notes
 
 How do levels of and trends in intergenerational income mobility depend on different estimates?
+
 - The choice of income concept
   - Labor earnings
   - Disposable personal income
@@ -36,6 +40,7 @@ How do levels of and trends in intergenerational income mobility depend on diffe
 - Instead of testing a given hypothesis derived from theory, the multiverse analysis asks: what explanation best accounts for the sum of results?
 
 Findings
+
 - Mobility has declined in recent cohorts, but for reasons neglected by previous literature.
-- The advancement of women in the labor market leads to increased persistence in women’s earnings.
-- For specifications that isolate men’s earnings, mobility has mostly remained flat or increased.
+- The advancement of women in the labor market leads to increased persistence in women's earnings.
+- For specifications that isolate men's earnings, mobility has mostly remained flat or increased.
