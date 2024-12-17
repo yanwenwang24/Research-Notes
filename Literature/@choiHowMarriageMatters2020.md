@@ -7,8 +7,9 @@ doi: 10.1177/0003122420917591
 tags:
   - income
   - marriage
+  - mobility
 date created: 2024-12-11
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

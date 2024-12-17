@@ -7,8 +7,9 @@ doi: 10.1007/978-94-007-1065-8
 tags:
   - education
   - mate-selection
+  - marriage
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

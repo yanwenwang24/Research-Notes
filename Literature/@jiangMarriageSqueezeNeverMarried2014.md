@@ -7,8 +7,9 @@ doi: 10.1007/s11113-013-9283-8
 tags:
   - marriage
   - China
+  - age
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

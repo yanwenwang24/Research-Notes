@@ -5,11 +5,12 @@ year: "2022"
 journal: European Sociological Review
 doi: 10.1093/esr/jcab031
 tags:
-  - well-being
   - education
   - mate-selection
+  - well-being/depression
+  - Europe
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

@@ -7,8 +7,9 @@ doi: 10.1016/j.chieco.2022.101804
 tags:
   - education
   - urban-rural
+  - China
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

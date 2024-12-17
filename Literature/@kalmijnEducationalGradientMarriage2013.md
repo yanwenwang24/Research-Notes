@@ -7,8 +7,9 @@ doi: 10.1007/s13524-013-0229-x
 tags:
   - education
   - marriage
+  - Europe
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

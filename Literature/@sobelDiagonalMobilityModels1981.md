@@ -7,6 +7,7 @@ doi: 10.2307/2095086
 tags:
   - methods/DMM
   - fertility
+  - mobility
 date created: 2024-12-13
 date modified: 2024-12-16
 ---

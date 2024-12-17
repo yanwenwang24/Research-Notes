@@ -7,8 +7,10 @@ doi: 10.1086/229786
 tags:
   - education
   - mate-selection
+  - occupation
+  - methods/log-linear
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

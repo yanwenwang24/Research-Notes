@@ -6,8 +6,10 @@ journal: American Journal of Sociology
 doi: 10.1086/713927
 tags:
   - status-exchange
+  - race-ethnicity
+  - mate-selection
 date created: 2024-12-11
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

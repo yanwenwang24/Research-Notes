@@ -7,8 +7,10 @@ doi: 10.1177/00031224231180607
 tags:
   - income
   - methods/multiverse
+  - Europe
+  - mobility
 date created: 2024-12-12
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

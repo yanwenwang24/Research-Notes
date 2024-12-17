@@ -7,8 +7,9 @@ doi: 10.1007/s11199-017-0751-1
 tags:
   - marriage
   - labor-division
+  - China
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract

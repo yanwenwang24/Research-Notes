@@ -6,8 +6,9 @@ journal: Ethnic and Racial Studies
 doi: 10.1080/01419870801905612
 tags:
   - race-ethnicity
+  - China
 date created: 2024-12-15
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
 
 ## Abstract
