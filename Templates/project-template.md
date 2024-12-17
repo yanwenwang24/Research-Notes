@@ -4,6 +4,8 @@ status: planning
 tags:
 ---
 
+# Title
+
 ## Project overview
 
 Authors: Yanwen Wang
@@ -26,6 +28,7 @@ Key Milestones:
 - [ ] Analysis complete
 - [ ] Draft complete
 - [ ] Submission
+- [ ] Publication
 
 ## Research questions
 
