@@ -1,14 +1,17 @@
 ---
-title: 2024-Interethnic-Marriage-China
+title: "Breaking Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010"
 status: on-going
 tags:
   - status-exchange
   - methods/log-linear
   - race-ethnicity
   - mate-selection
+  - China
 date created: 2024-12-13
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
+
+# Breaking Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010
 
 ## Project overview
 
@@ -400,4 +403,4 @@ Interethnic marriage in China
 | 2024-12-14 | Add research objectives; examine and visualize gender asymmetry (pooled and temporal); organize descriptive and model findings; update abstract; proofread Draft_                                                                                              | Continue proofreading Draft_v1; update hypotheses; add findings related to gender asymmetry                                                                 |
 | 2024-12-15 | Proofread Draft_v1; add related literature; write up findings about gender asymmetry; update gra                                                                                                                                                               | Add supplementary tables about gender asymmetry; organize auxiliary findings; write up auxiliary findings about gender asymmetry; outline literature review |
 | 2024-12-16 | Organize auxiliary findings; write up auxiliary findings about gender asymmetry; add supplementary table about gender asymmetry; outline literature review; write up literature review about gender asymmetry; organize and add hypotheses ry; update abstract | Add relevant literature; add citations                                                                                                                      |
-|            |                                                                                                                                                                                                                                                                |                                                                                                                                                             |
+| 2024-12-17 |                                                                                                                                                                                                                                                                |                                                                                                                                                             |

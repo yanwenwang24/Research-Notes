@@ -1,13 +1,16 @@
 ---
-title: 2024-Decompose-Edu-Sorting-China
+title: "Understanding Trends in Marital Sorting by Education in China: A Decomposition Approach"
 status: submitted
 tags:
   - education
   - mate-selection
   - methods/decomposition
+  - China
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-17
 ---
+
+# Understanding Trends in Marital Sorting by Education in China: A Decomposition Approach
 
 ## Project overview
 
@@ -224,6 +227,7 @@ Educational assortative mating
 
 Education
 
+- [[@gruijtersTrendsEducationalMobility2019]]
 - [[@huangReturnsEducationChina2022]]
 - [[@kalmijnEducationalGradientMarriage2013]]
 - [[@treimanDifferenceHeavenEarth2012]]
@@ -249,4 +253,4 @@ Marriage and family
 
 | Date       | Activity                                    | Next Steps |
 | ---------- | ------------------------------------------- | ---------- |
-| 2024-12-16 | review the project; add relevant literature |            |
+| 2024-12-16 | Review the project; add relevant literature |            |
