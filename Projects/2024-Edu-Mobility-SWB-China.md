@@ -8,7 +8,7 @@ tags:
   - methods/DMM
   - only-child
 date created: 2024-12-17
-date modified: 2024-12-17
+date modified: 2024-12-18
 ---
 
 # Educational Mobility and Subjective Well-Being from an Intergenerational Perspective
@@ -114,6 +114,7 @@ Empirical studies on mobility trends and its outcomes
 
 - [[@dhooreSocialMobilityLife2019]]
 - [[@gruijtersTrendsEducationalMobility2019]]
+- [[@hongLostLandOpportunity2024]]
 - [[@huGenderEducationExpansion2023]]
 - [[@kwonImpactIntergenerationalMobility2022]]
 - [[@schuckDoesIntergenerationalEducational2018]]

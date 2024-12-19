@@ -5,11 +5,11 @@ year: "2004"
 journal: Journal of Marriage and Family
 doi: 10.1111/j.1741-3737.2004.00031.x
 tags:
-  - well-being
   - income
   - education
+  - violence
 date created: 2024-12-17
-date modified: 2024-12-17
+date modified: 2024-12-18
 ---
 
 ## Abstract

@@ -49,8 +49,8 @@ Over the past decades, the patterns of educational sorting in marriage have chan
 
 Assortative mating preferences
 
-- Strengthening patterns of educational homogamy in China and other transitional sates ([[@dongTrendsEducationalAssortative2023]]; [[@duTrendsEducationalAssortative2023]]; [[@fengRevisitingHorizontalStratification2022]]; [[[@hanTrendsEducationalAssortative2010]]])
-- Gender norms favoring hypergamy over hypogamy ([[@hanTrendsEducationalAssortative2010]])
+- Strengthening patterns of educational homogamy in China and other transitional sates ([[@dongTrendsEducationalAssortative2023]]; [[@duTrendsEducationalAssortative2023]]; [[@fengRevisitingHorizontalStratification2022]]; [[@hanTrendsEducationalAssortative2010]])
+- Gender norms favoring hypergamy over hypogamy
 
 Educational expansion
 
