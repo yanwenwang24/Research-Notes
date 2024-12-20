@@ -7,7 +7,7 @@ tags:
   - health
   - China
 date created: 2024-12-18
-date modified: 2024-12-18
+date modified: 2024-12-20
 ---
 
 # Interethnic Marriage and Health in China
@@ -44,13 +44,56 @@ Key Milestones:
 
 ## Data and methods
 
-Data: Census in 2005, 2010, and 2015
+### Data and sample
 
-Sample: Respondents aged 60 and above
+A sample of 456,714 respondents selected from Census in 2005, 2010, and 2015
 
-Measures
+| Step | Filter Description                      | Remaining Sample | Dropped   | Drop Rate |
+| ---- | --------------------------------------- | ---------------- | --------- | --------- |
+| 1    | Age ≥ 60                                | 923,891          | 5,985,855 | 86.63%    |
+| 2    | Non-missing health                      | 910,645          | 13,246    | 1.43%     |
+| 3    | Married only                            | 654,986          | 255,659   | 28.07%    |
+| 4    | Non-missing ethnicity (self and spouse) | 456,714          | 198,272   | 30.27%    |
+| 5    | Non-missing education (self and spouse) | 456,714          | 0         | 0.00%     |
 
-Analytic strategy
+### Measures
+
+Dependent variable: self-rated health (dichotomous)
+
+| Health | Census 2005 | Census 2010 | Census 2015 |
+|---------|--------------|--------------|--------------|
+| 1 | Healthy; able to ensure normal work and life; | Healthy; mostly healthy | Healthy; mostly healthy |
+| 0 | Cannot ensure a normal work and life; cannot tell | Not healthy, but can manage life independently; cannot manage life independently | Not healthy, but can manage life independently; cannot manage life independently |
+
+Independent variables
+
+- Ethnic group (self and spouse)
+	- Han
+	- Kazakh
+	- Korean
+	- Manchu
+	- Mongolian
+	- Southern
+	- Tibetan
+	- Uyghur
+- Interethnic marriage indicator (whether spouse belongs to the same ethnic group)
+- Educational sorting indicators (homogamy, upwards, downwards)
+- Covariates
+	- Level 1: female, age, migrant, education, employment, household size
+	- Level 2: co-ethnic presence, entropy, education, basic facilities (percentage of households with kitchen and toilet)
+
+### Analytic strategy
+
+Multilevel logistic regression
+
+Pooled
+
+- Self ethnicity + whether interethnic marriage
+- Self ethnicity + spousal ethnicity (+ interaction terms)
+
+By ethnicity
+
+- Ethnicity-Ethnicity vs. Ethnicity-Han vs. Han-Han marriages
 
 ## Results
 
@@ -91,6 +134,7 @@ Ethnicity and health in China
 
 ## Progress logs
 
-| Date       | Activity                | Next Steps |
-| ---------- | ----------------------- | ---------- |
-| 2024-12-18 | Add relevant literature | Clean data |
+| Date       | Activity                                | Next Steps            |
+| ---------- | --------------------------------------- | --------------------- |
+| 2024-12-18 | Add relevant literature                 | Clean data            |
+| 2024-12-20 | Clean data; select sample; add measures | Add analytic strategy |
