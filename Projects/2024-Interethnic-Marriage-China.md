@@ -8,7 +8,7 @@ tags:
   - mate-selection
   - China
 date created: 2024-12-13
-date modified: 2024-12-18
+date modified: 2024-12-24
 ---
 
 # Bridging Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010
@@ -376,25 +376,29 @@ Intermarriage
 - [[@kalmijnIntermarriageHomogamyCauses1998]]
 - [[@qianBreakingRacialBarriers1997]]
 - [[@qianSocialBoundariesMarital2007]]
+- [[@qianRacialPairingsFertility2021]]
 - [[@rosenfeldCritiqueExchangeTheory2005]]
 - [[@rosenfeldStillWeakSupport2010]]
 - [[@torcheDecliningRacialStratification2017]]
 - [[@xieNewMethodologicalFramework2021]]
 
-Ethnicity and education
+Ethnicity, education, and labor market
 
 - [[@davenportFluidityRacialClassifications2020]]
-- [[@wimmerElementaryStrategiesEthnic2008]]
 - [[@francis-tanExaminingEthnicityPatterns2022]]
 - [[@francis-tanRacialRevolutionUnderstanding2019]]
+- [[@gustafssonEthnicMinorityMajorityIncome2003]]
+- [[@hannumEducationalStratificationEthnicity2002]]
+- [[@hannumEthnicStratificationNorthwest1998]]
 - [[@muFollowFatherMother2024]]
 - [[@muUnderstandingEducationalDisparities2024]]
-- [[@hannumEducationalStratificationEthnicity2002]]
+- [[@wimmerElementaryStrategiesEthnic2008]]
 
-Interethnic marriage in China
+Ethnic relations and interethnic marriage in China
 
 - [[@chenInterethnicMarriageNortheast2018]]
 - [[@guoMarriageAgeNumber2008]]
+- [[@harrellCulturalEncountersChinas1995]]
 - [[@jankowiakMongolianInterethnicMarriage2024]]
 - [[@jianRecentTrendEthnic2017]]
 - [[@liAnalysisCurrentStatus2004]]
@@ -412,3 +416,4 @@ Interethnic marriage in China
 | 2024-12-15 | Proofread Draft_v1; add related literature; write up findings about gender asymmetry; update gra                                                                                                                                                               | Add supplementary tables about gender asymmetry; organize auxiliary findings; write up auxiliary findings about gender asymmetry; outline literature review |
 | 2024-12-16 | Organize auxiliary findings; write up auxiliary findings about gender asymmetry; add supplementary table about gender asymmetry; outline literature review; write up literature review about gender asymmetry; organize and add hypotheses ry; update abstract | Add relevant literature; add citations                                                                                                                      |
 | 2024-12-18 | Add appendix table of sample restriction; proofread findings and literature review of gender asymmetry; update abstract                                                                                                                                        | Outline discussion; streamline literature review                                                                                                            |
+| 2024-12-21 | Refine sample selection codes                                                                                                                                                                                                                                  |                                                                                                                                                             |

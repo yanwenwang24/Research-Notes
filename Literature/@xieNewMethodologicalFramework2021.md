@@ -9,7 +9,7 @@ tags:
   - race-ethnicity
   - mate-selection
 date created: 2024-12-11
-date modified: 2024-12-17
+date modified: 2024-12-24
 ---
 
 ## Abstract
@@ -20,7 +20,7 @@ The authors propose a new methodological framework for studying status exchange 
 
 **Status exchange** refers to a marriage pattern in which one spouse compensates for his or her disadvantage--relative to the other spouse--in one status dimension with an advantage in another status dimension.
 
-Example: Black-White intermarriages (e.g., [[@fuRacialIntermarriagePairings2001]]; [[@qianBreakingRacialBarriers1997]]; [[@qianSocialBoundariesMarital2007]]; [[@torcheDecliningRacialStratification2017]])
+Example: Black-White intermarriages (e.g., [[@fuRacialIntermarriagePairings2001]]; [[@houInterracialMarriageStatuscaste2013]]; [[@kalmijnStatusHomogamyUnited1991]]; [[@qianBreakingRacialBarriers1997]]; [[@qianSocialBoundariesMarital2007]]; [[@torcheDecliningRacialStratification2017]])
 
 Methodological disputes
 
