@@ -1,5 +1,5 @@
 ---
-title: "Bridging Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010"
+title: "Breaking Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010"
 status: on-going
 tags:
   - status-exchange
@@ -8,10 +8,10 @@ tags:
   - mate-selection
   - China
 date created: 2024-12-13
-date modified: 2024-12-24
+date modified: 2024-12-25
 ---
 
-# Bridging Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010
+# Breaking Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010
 
 ## Project overview
 
