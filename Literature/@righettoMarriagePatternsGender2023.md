@@ -9,8 +9,9 @@ tags:
   - mate-selection
   - divorce
   - labor-force
+  - methods/IV
 date created: 2024-12-24
-date modified: 2024-12-24
+date modified: 2024-12-27
 ---
 
 ## Abstract
