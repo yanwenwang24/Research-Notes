@@ -7,7 +7,7 @@ tags:
   - China
   - labor-division
 date created: 2024-12-23
-date modified: 2024-12-29
+date modified: 2025-01-03
 ---
 
 # Ethnicity, Marriage, and Female Labor Force Exit in China
@@ -36,7 +36,15 @@ Key Milestones:
 - [ ] Submission
 - [ ] Publication
 
+## Abstract
+
+This study investigates the risk of unemployment among women from various minority ethnic groups in China, focusing on whether this risk differs based on ethnic pairing in marriage (intra-ethnic vs. intermarriage with Han husbands) and how intra-couple educational sorting moderates this association. Utilizing data from the 1982, 1990, 2000, and 2010 China Censuses and employing multilevel logistic models, we found considerable heterogeneity across ethnic groups. Intermarriage with Han husbands was associated with a higher likelihood of unemployment for Korean, Southern, and Tibetan women, but not for others. Notably, while educational hypergamy (marrying upwards in education) generally increased the odds of unemployment, in some cases these effects were suppressed for women in intermarriage with Han husbands. These findings provide important insights into the complex interplay between ethnic boundaries, status dynamics, and women's labor market access, suggesting that while intermarriage may not uniformly signal socioeconomic integration for minority women, it is, in certain cases, protective against unemployment in marriages with traditional gendered dynamics.
+
 ## Research questions
+
+1. How does intermarriage with Han men affect minority women's unemployment risk compared to intra-ethnic marriage?
+2. How does this association vary across different minority groups?
+3. How do educational sorting patterns moderate the relationship between ethnic pairing and unemployment?
 
 ## Theoretical background
 
@@ -57,83 +65,112 @@ Labor force participation in intra- and inter-ethnic marriage
 
 Census in 1982, 1990, 2000, and 2010
 
-A sample of 1,971,474 married female respondents aged between 35-44 with non-missing information about their own and their spouse's employment, ethnicity, and education
+A sample of 5396495 married female respondents aged between 25-50 with non-missing information about their own and their spouse's employment, ethnicity, and education.
 
-| Step | Filter Description                                                | Remaining Sample | Dropped  | Drop Rate |
-| ---- | ----------------------------------------------------------------- | ---------------- | -------- | --------- |
-| 0    | Initial sample size                                               | 36000186         |          |           |
-| 1    | Not living in group quarters                                      | 34798142         | 1202044  | 3.34%     |
-| 2    | Female                                                            | 17156085         | 17642057 | 50.70%    |
-| 3    | Age between 35-44                                                 | 2325962          | 14830123 | 86.44%    |
-| 4    | Married                                                           | 2263478          | 62484    | 2.69%     |
-| 5    | Non-missing employment, ethnicity and education (self and spouse) | 1971474          | 292004   | 12.90%    |
+0. Initial sample size: 36000186
+1. Filter by not living in group quarter, size: 34798142, dropped: 1202044 (3.34%)
+2. Filter by gender (female only), size: 17156085, dropped: 17642057 (50.7%)
+3. Filter by age 25-50, size: 6443711, dropped: 10712374 (62.44%)
+4. Filter by marital status (married), size: 6178615, dropped: 265096 (4.11%)
+5. Filter by employment, ethnicity, and education (not missing), size: 5396495, dropped: 782120 (12.66%)
 
 ### Measures
 
-Labor force exit (dichotomous)
+**Labor force exit**: Employed vs. unemployed/inactive
 
-- Employed vs. unemployed/inactive
+**Ethnic group**: Han, Hui, Kazakh, Korean, Manchu, Mongolian, Southern, Tibetan, and Uyghur.
 
-Ethnicity
-
-- Han
-- Hui
-- Kazakh
-- Korean
-- Manchu
-- Mongolian
-- Southern
-- Tibetan
-- Uyghur
-
-Interethnic marriage
-
-- Dichotomous: intra- vs. inter-ethnic
-- Ethnic pairing
+**Interethnic marriage**: intra-ethnic marriage, intermarriage with Han, and intermarriage with other minorities
 
 ### Methods
 
-Multilevel logistic model
+Multilevel logistic model (individual/prefecture/year)
 
-- Variation in labor force exit by ethnic group (pooled sample)
-- Variation in labor force exit by ethnic pairing (samples stratified by ethnic group)
+- By ethnic group using pooled samples
+- By ethnic pairing using samples stratified by ethnic group
 
 ## Results
 
 ### Descriptive results
 
-Description
-
 ### Model results
 
-Unemployment by ethnic group
+#### Unemployment by ethnic group
 
-- Compared to Han women, Hui, Kazakh, Manchu, Mongolian, and Uyghur women were more likely to be unemployed, while Korean, Southern, and Tibetan women were less likely.
+| Term              | Coefficient | Std. Error | z-value | p-value |
+| ----------------- | ----------- | ---------- | ------- | ------- |
+| (Intercept)       | -1.262      | 0.249      | -5.060  | <1e-06  |
+| Hui               | 0.241       | 0.015      | 16.150  | <1e-57  |
+| Kazakh            | 0.689       | 0.036      | 19.160  | <1e-81  |
+| Korean            | -0.518      | 0.027      | -19.070 | <1e-80  |
+| Manchu            | 0.162       | 0.012      | 13.710  | <1e-42  |
+| Mongolian         | 0.101       | 0.017      | 5.920   | <1e-08  |
+| Southern          | -0.654      | 0.013      | -50.800 | <1e-99  |
+| Tibetan           | -0.688      | 0.045      | -15.280 | <1e-51  |
+| Uyghur            | 0.273       | 0.028      | 9.820   | <1e-22  |
+| Age               | 0.357       | 0.002      | 229.370 | <1e-99  |
+| Education Level 2 | 0.061       | 0.003      | 18.510  | <1e-75  |
+| Education Level 3 | -0.420      | 0.005      | -88.390 | <1e-99  |
+| Household Size    | 0.004       | 0.001      | 3.120   | 0.002   |
+| Children Born: 1  | -0.133      | 0.008      | -16.720 | <1e-62  |
+| Children Born: 2  | -0.483      | 0.008      | -59.080 | <1e-99  |
+| Children Born: 3+ | -0.361      | 0.009      | -41.480 | <1e-99  |
 
-Unemployment by ethnic pairing
+The model reveals substantial variation in unemployment probabilities across ethnic groups, with Han women serving as the reference category.
 
-- Hui
-	- No difference was found by ethnic pairing.
-	- Spousal education was negatively associated with unemployment, except for those with low education in intra-ethnic marriage.
-- Kazakh
-	- No difference was found by either ethnic or educational pairing.
-- Korean
-	- No difference was found by ethnic pairing.
-	- Spousal education was negatively associated with unemployment in intermarriage with Han but positively related to unemployment in intra-ethnic marriage.
-- Manchu
-	- Those in intermarriage with Han (-0.13) were less likely to be unemployed than those in intra-ethnic marriage.
-	- Spousal education was negatively associated with unemployment, except for those with middle education in intermarriage with Han.
-- Mongolian
-	- Those in intermarriage with other minorities (0.39) were more likely to be unemployed than those in intra-ethnic marriage.
-	- Spousal education was positively associated with unemployment for those with low education.
-- Southern
-	- Those in intermarriage with Han (0.51) were more likely to be unemployed than those in intra-ethnic marriage.
-	- Spousal education was positively associated with unemployment, especially for those with low or middle education in intra-ethnic marriage.
-- Tibetan
-	- No difference was found by ethnic pairing.
-	- Spousal education was positively associated with unemployment for those in intra-ethnic marriage and for those with middle education in intermarriage with Han.
-- Uyghur
-	- No difference was found by either ethnic or educational pairing.
+- Kazakh women show the highest likelihood of unemployment (β = 0.689, p < 0.001), followed by Uyghur (β = 0.273), Hui (β = 0.241), Manchu (β = 0.162), and Mongolian (β = 0.101) women.
+- In contrast, Southern (β = -0.654), Tibetan (β = -0.688), and Korean (β = -0.518) women demonstrate significantly lower unemployment probabilities compared to their Han counterparts.
+
+#### Unemployment by ethnic pairing
+
+Hui
+
+- No difference was found by ethnic pairing.
+- Unemployment was positively associated with both hypogamy and hypergamy, compared to homogamy.
+- The association between ethnic pairing and unemployment was not moderated by educational sorting.
+
+Kazakh
+
+- No difference was found by ethnic pairing.
+- Unemployment was positively associated with hypergamy, compared to homogamy.
+- The association between ethnic pairing and unemployment was not moderated by educational sorting.
+
+Korean
+
+- Those in intermarriage with Han husbands were more likely to be unemployed compared to their counterparts in intra-ethnic marriage.
+- Unemployment was negatively associated with hypogamy but positively related to hypergamy, compared to homogamy.
+- The protective effects of hypogamy against unemployment was suppressed by intermarriage with Han husbands.
+
+Manchu
+
+- No difference was found by ethnic pairing.
+- Unemployment was positively associated with hypogamy, compared to homogamy.
+- The association between ethnic pairing and unemployment was not moderated by educational sorting.
+
+Mongolian
+
+- No difference was found by ethnic pairing.
+- Unemployment was positively associated with both hypogamy and hypergamy, compared to homogamy.
+- The effect of hypergamy was suppressed by intermarriage with Han husbands. While hypergamy increases unemployment probability for Mongolian-Mongolian marriages, this effect is essentially neutralized for Han-Mongolian marriages.
+
+Southern
+
+- Those in intermarriage with Han husbands were more likely to be unemployed compared to their counterparts in intra-ethnic marriage.
+- Unemployment was positively associated with hypergamy, compared to homogamy.
+- The effects of hypergamy was suppressed by intermarriage with Han husbands.
+
+Tibetan
+
+- Those in intermarriage with Han husbands were more likely to be unemployed compared to their counterparts in intra-ethnic marriage.
+- Unemployment was positively associated with hypergamy, compared to homogamy.
+- While educational hypergamy generally increases unemployment risk, this disadvantage is less pronounced in Han-Tibetan marriages.
+- While hypogamy has no significant effect in Tibetan-Tibetan marriages, it increases unemployment probability in Han-Tibetan marriages.
+
+Uyghur
+
+- No difference was found by ethnic pairing.
+- Unemployment was positively associated with both hypergamy and hypogamy, compared to homogamy.
+- The association between ethnic pairing and unemployment was not moderated by educational sorting.
 
 ## Related literature
 
@@ -189,3 +226,4 @@ Gender and labor force participation in China
 | 2024-12-27 | Add multilevel models                                                                                                                                                                  |                                               |
 | 2024-12-28 | Restrict sample to women                                                                                                                                                               |                                               |
 | 2024-12-29 | Fit models with interactions terms of education; visualize patterns of unemployment across ethnic and educational pairs                                                                | Try different measures of educational sorting |
+| 2025-01-03 | Reorganize findings; add research questions; add abstract                                                                                                                              |                                               |

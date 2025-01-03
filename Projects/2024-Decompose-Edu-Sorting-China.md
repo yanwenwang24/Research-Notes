@@ -7,7 +7,7 @@ tags:
   - methods/decomposition
   - China
 date created: 2024-12-16
-date modified: 2024-12-17
+date modified: 2024-12-30
 ---
 
 # Understanding Trends in Marital Sorting by Education in China: A Decomposition Approach
@@ -200,6 +200,8 @@ Educational assortative mating
 
 - [[@blossfeldEducationalAssortativeMarriage2009]]
 - [[@blossfeldWhoMarriesWhom2003]]
+- [[@breenEducationalAssortativeMating2011]]
+- [[@breenEducationalAssortativeMating2012]]
 - [[@dehauwReversedGenderGap2017]]
 - [[@domanskiEducationalHomogamy222007]]
 - [[@dongTrendsEducationalAssortative2023]]

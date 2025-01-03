@@ -1,5 +1,5 @@
 ---
-title: "Remaking the American mainstream: Assimilation and contemporary immigration"
+title: "Remaking the American Mainstream: Assimilation and Cntemporary Immigration"
 authors: Richard D. Alba, Victor Nee
 year: "2005"
 journal: ""
@@ -8,7 +8,7 @@ tags:
   - race-ethnicity
   - migration
 date created: 2024-12-16
-date modified: 2024-12-16
+date modified: 2024-12-30
 ---
 
 ## Abstract

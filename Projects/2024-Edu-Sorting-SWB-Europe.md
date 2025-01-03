@@ -7,7 +7,7 @@ tags:
   - Europe
   - well-being/life-satisfaction
 date created: 2024-12-16
-date modified: 2024-12-17
+date modified: 2024-12-30
 ---
 
 # Educational Sorting and Subjective Well-Being: Gender Differences and Contextual Variations
@@ -46,7 +46,7 @@ Three propositions
 
 - Homogamy advantage ([[@beckerSelectionAlignmentTheir2010]]; [[@keizerAreEqualsHappier2015]]; [[@stutzerDoesMarriageMake2006]])
 - Status attainment ([[@zhaoPartnersEducationalPairings2022]])
-- Gender roles ([[@kaukinenStatusCompatibilityPhysical2004]]; [[@kowalewskaFemalebreadwinnerWellbeingPenalty2023]]; [[@hajduIntraCoupleIncomeDistribution2018]]; [[@potarcaAreWomenHypogamous2022]]; [[@theunisHisHerEducation2018]])
+- Gender roles ([[@courtenayConstructionsMasculinityTheir2000]]; [[@kaukinenStatusCompatibilityPhysical2004]]; [[@kowalewskaFemalebreadwinnerWellbeingPenalty2023]]; [[@hajduIntraCoupleIncomeDistribution2018]]; [[@potarcaAreWomenHypogamous2022]]; [[@theunisHisHerEducation2018]])
 
 Country clusters ([[@esping-andersenThreeWorldsWelfare1990]]; [[@esping-andersenWelfareRegimesSocial2015]]; [[@ferreraSouthernModelWelfare1996]])
 
@@ -118,6 +118,8 @@ Educational sorting patterns
 Outcomes of educational sorting
 
 - [[@beckerSelectionAlignmentTheir2010]]
+- [[@breenEducationalAssortativeMating2011]]
+- [[@breenEducationalAssortativeMating2012]]
 - [[@dominguez-folguerasCohabitationMoreEgalitarian2013]]
 - [[@eikaEducationalAssortativeMating2019]]
 - [[@gauntCoupleSimilarityMarital2006]]
@@ -138,12 +140,14 @@ Welfare regimes
 - [[@esping-andersenWelfareRegimesSocial2015]]
 - [[@ferreraSouthernModelWelfare1996]]
 - [[@knightOneEgalitarianismSeveral2017]]
+- [[@saracenoFamiliesAgeingSocial2008]]
 
 Marriage and context
 
 - [[@cherlinDeinstitutionalizationAmericanMarriage2004]]
 - [[@beckerTheoryMarriagePart1974]]
 - [[@oppenheimerTheoryMarriageTiming1988]]
+- [[@oppenheimerWomensEmploymentGain1997]]
 - [[@soonsMarriageMoreCohabitation2009]]
 - [[@kalmijnCountryDifferencesEffects2010]]
 - [[@stutzerDoesMarriageMake2006]]

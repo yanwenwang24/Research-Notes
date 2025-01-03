@@ -8,7 +8,7 @@ tags:
   - mate-selection
   - China
 date created: 2024-12-13
-date modified: 2024-12-25
+date modified: 2024-12-30
 ---
 
 # Breaking Ethnic Boundaries: The Evolution of Interethnic Marriage in China, 1982-2010
@@ -362,12 +362,19 @@ Status exchange
 
 ## Related literature
 
-Intermarriage
+Assimilation
 
 - [[@albaRemakingAmericanMainstream2005]]
+- [[@gordonAssimilationAmericanLife1988]]
+- [[@simpsonRacialCulturalMinorities1987]]
+
+Intermarriage and status exchange
+
 - [[@blossfeldWhoMarriesWhom2003]]
 - [[@fuRacialIntermarriagePairings2001]]
+- [[@kalmijnIntermarriageHomogamyCauses1998]]
 - [[@kalmijnEducationalInequalityHomogamy2010]]
+- [[@kalmijnConsequencesRacialIntermarriage2010]]
 - [[@gullicksonBlackWhiteInterracial2006]]
 - [[@gullicksonPatternsRacialEducational2014]]
 - [[@gullicksonCommentEndorsementExchange2010]]
@@ -375,14 +382,14 @@ Intermarriage
 - [[@kalmijnStatusHomogamyUnited1991]]
 - [[@kalmijnIntermarriageHomogamyCauses1998]]
 - [[@qianBreakingRacialBarriers1997]]
+- [[@qianOptionsRacialEthnic2004]]
 - [[@qianSocialBoundariesMarital2007]]
 - [[@qianRacialPairingsFertility2021]]
 - [[@rosenfeldCritiqueExchangeTheory2005]]
 - [[@rosenfeldStillWeakSupport2010]]
 - [[@torcheDecliningRacialStratification2017]]
-- [[@xieNewMethodologicalFramework2021]]
 
-Ethnicity, education, and labor market
+Ethnic identity and stratification in China
 
 - [[@davenportFluidityRacialClassifications2020]]
 - [[@francis-tanExaminingEthnicityPatterns2022]]
@@ -393,6 +400,7 @@ Ethnicity, education, and labor market
 - [[@muFollowFatherMother2024]]
 - [[@muUnderstandingEducationalDisparities2024]]
 - [[@wimmerElementaryStrategiesEthnic2008]]
+- [[@wuEthnicStratificationChinas2014]]
 
 Ethnic relations and interethnic marriage in China
 
@@ -407,6 +415,11 @@ Ethnic relations and interethnic marriage in China
 - [[@muHuiMuslimsEndogamy2022]]
 - [[@shenMigrantExogamyEthnic2019]]
 - [[@xingPrevalenceEthnicIntermarriage2007]]
+- [[@zangEthnicityChinaCritical2015]]
+
+Methods
+
+- [[@xieNewMethodologicalFramework2021]]
 
 ## Progress logs
 
@@ -417,3 +430,4 @@ Ethnic relations and interethnic marriage in China
 | 2024-12-16 | Organize auxiliary findings; write up auxiliary findings about gender asymmetry; add supplementary table about gender asymmetry; outline literature review; write up literature review about gender asymmetry; organize and add hypotheses ry; update abstract | Add relevant literature; add citations                                                                                                                      |
 | 2024-12-18 | Add appendix table of sample restriction; proofread findings and literature review of gender asymmetry; update abstract                                                                                                                                        | Outline discussion; streamline literature review                                                                                                            |
 | 2024-12-21 | Refine sample selection codes                                                                                                                                                                                                                                  |                                                                                                                                                             |
+| 2024-12-30 | Add citations                                                                                                                                                                                                                                                  |                                                                                                                                                             |

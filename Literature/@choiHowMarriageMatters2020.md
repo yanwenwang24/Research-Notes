@@ -9,7 +9,7 @@ tags:
   - marriage
   - mobility
 date created: 2024-12-11
-date modified: 2024-12-17
+date modified: 2024-12-30
 ---
 
 ## Abstract
@@ -18,7 +18,7 @@ Adult children's labor market status and their type of marriage are major channe
 
 ## Notes
 
-This study examines the overall role of marriage in the intergenerational transmission of family resources.
+This study examines the overall role of marriage in the intergenerational transmission of family resources ([[@breenEducationalAssortativeMating2011]]; [[@breenEducationalAssortativeMating2012]]).
 
 1. To what extent is the transmission of family (dis)advantages from parents to children attributable to children's marriage and to individual attainment in the labor market?
 2. Given that marriage plays a role, how much of this is the result of whether someone marries and that of who someone marries?

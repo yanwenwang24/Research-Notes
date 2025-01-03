@@ -10,7 +10,7 @@ tags:
   - mate-selection
   - Europe
 date created: 2024-12-16
-date modified: 2024-12-29
+date modified: 2024-12-30
 ---
 
 ## Abstract
@@ -27,7 +27,7 @@ Trends
 
 Consequences of assortative mating
 
-- Gender inequality, educational and earnings inequality between couples ([[@blossfeldWhoMarriesWhom2003]]; [[@schwartzReversalGenderGap2014]])
+- Gender inequality, educational and earnings inequality between couples ([[@blossfeldWhoMarriesWhom2003]]; [[@breenEducationalAssortativeMating2011]]; [[@breenEducationalAssortativeMating2012]]; [[@schwartzReversalGenderGap2014]])
 
 Less is known about why these outcomes have changed over time and differ across countries.
 
